@@ -11,9 +11,7 @@
 
 5. The attractiveness of resume is directly proportional to the high chances of getting a good job, the more the resume is attractive is the more chances of a job
 
-## Note-:
 
-It is a Resume Generator which automatically generates a resume car according to your given information. We made this project with help of all our Team Members. All credits goes to its Respective Owners.......
 
 # Used Languages
 
