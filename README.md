@@ -1,16 +1,3 @@
-<h2 align="center"><b>⭐ Star our repository and grow our community</b></h2>
-<h2 align="center"><b>Owner: <a href="https://github.com/Yashdon999">Maku Gang 🇮🇳</a></b></h2>
-<br>
-<p align="center"><img src="https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto/v1625166167/1625166166.jpg"></a></p> 
-</p>
-<h1>RESUME GENERATOR</h1>
-<b>A RESPONSIVE AND USEFULL WEB.</b>
-<br>
-<br>
-
-[![Private Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Yashdon999/Resume-Genrator)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 
 # About Resume Generator
 
