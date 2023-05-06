@@ -65,33 +65,6 @@ If `npm install` does not work, try using:
 
 # Web URL
 
-https://resume-generator-xi.vercel.app/
+https://cvmaker-henna.vercel.app/
 
-# Credits
 
-- [Yash Vyavahare](https://github.com/Yashdon999)
-- [Khizar Shah](https://github.com/Khizarshah01)
-- [Harsh Baraliya](https://github.com/MrCracker-OP)
-- [Shashwat Agrawal](https://github.com/ShashwatAgrawal20)
-
-## Thanks to all Contributors 💪
-
-Thanks a lot for spending your time helping Resume Generator grow. Thanks a lot! Keep rocking 🍻
-
-<p float="left">
-  <img src="https://avatars.githubusercontent.com/u/104668751?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/109973520?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/72117025?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/77793128?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/68184118?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/81804004?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/94482664?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/25421701?v=4" width="80" height="80" />
-  <img src="https://avatars.githubusercontent.com/u/69655024?v=4" width="80" height="80" />
-  </p>
-
-# Support us by Donating
-
-Pay us using
-
-<img src="https://pbs.twimg.com/profile_images/1329113828731146242/FzxBBPrs_400x400.jpg" width="40" height="40">
