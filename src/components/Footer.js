@@ -102,7 +102,7 @@ const Footer = () => {
                         <a
                             className="btn btn-primary btn-floating m-1 border-0 rounded-circle"
                             style={{ backgroundColor: "#333333", padding: "0.5rem 0.85rem" }}
-                            href="https://github.com/Yashdon999/Resume-Generator"
+                            href="https://github.com/shuvam2722/onlineCVmaker"
                             role="button"
                         ><i className="fa fa-github"></i></a>
 
